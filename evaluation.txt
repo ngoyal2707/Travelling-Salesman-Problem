@@ -1,0 +1,31 @@
+Following is the role and ratings for the three group members:
+
+Mrinal Kumar:
+
+Mrinal implemented the greedy heuristic algorithm. He tried various strategies for it and could implement final with good accuracy.
+He also tried genetic algorithm, but that couldn't be completed so we had to go for the fall back.
+
+Report:
+Mrinal worked on Introduction, related work, greedy algorithm write up and on formatting.
+
+Rating:10/10
+
+
+Yang Song:
+
+Yang implemented Simulated Annealing and MST approx. He tried certain variants of SA and the final accuracy of SA was pretty good.
+
+Report:
+Yang wrote the part of Simulated annealing, hill climbing and MST approximation.
+
+Rating:10/10
+
+
+Naman Goyal:
+
+I implemented create graph, branch and bound and hill climbing algorithm.
+
+Report:
+I worked on the evaluation part of the report of creating various plots and writing discussion part.
+
+Rating:10/10
